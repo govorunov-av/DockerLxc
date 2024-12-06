@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-source <(curl -s https://raw.githubusercontent.com/govorunov-av/DockerLxc/build.func)
+#source <(curl -s https://raw.githubusercontent.com/tteck/Proxmox/main/misc/build.func)
+source  build.func
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
 # License: MIT
